@@ -1,0 +1,18 @@
+html {
+    height: 100%;
+    width: 100%;
+  }
+  
+  body {
+    background-color: #6d8ce6;
+  }
+  
+  h1 {
+    text-align: center;
+    color: #FFFFFF;
+  }
+  
+  input {
+    text-align: center;
+    border-radius: 6px;
+  }
